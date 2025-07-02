@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Títulos -->
+    <string name="title_notes">Notas</string>
+    <string name="title_luggage">Equipaje</string>
+    <string name="title_settings">Configuración</string>
+    <string name="title_translation">Traductor</string>
+    <string name="title_trip_list">Lista de viajes</string>
+    <string name="title_documents">Documentos</string>
+    <string name="title_calendar">Eventos</string>
+    <string name="title_map">Mapa</string>
+    <!-- Viajes -->
+    <string name="error_start_date_past">La fecha de inicio no puede estar en el pasado</string>
+    <string name="error_end_date_before_start_date">La fecha de fin debe ser posterior a la fecha de inicio</string>
+    <string name="error_all_fields_required">Todos los campos deben ser completados</string>
+    <string name="confirm_delete_trip">Eliminar viaje</string>
+    <string name="are_you_sure_trip">¿Estás seguro de que deseas eliminar este viaje y todos los datos asociados? Esta acción no se puede deshacer.</string>
+    <!-- Configuración -->
+    <string name="settings_language">Idioma</string>
+    <!-- Notas -->
+    <string name="confirm_delete_note">Eliminar nota</string>
+    <string name="close">Cerrar</string>
+    <string name="edit_document">Editar documento</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit_note">Editar nota</string>
+    <string name="are_you_sure_note">¿Estás seguro de que deseas eliminar esta nota? Esta acción no se puede deshacer.</string>
+    <!-- Eventos -->
+    <string name="date">Fecha</string>
+    <string name="description">Descripción</string>
+    <string name="start_time">Hora inicio</string>
+    <string name="end_time">Hora fin</string>
+    <string name="latitude">Latitud</string>
+    <string name="longitude">Longitud</string>
+    <string name="confirm_delete_event">Eliminar evento</string>
+    <string name="are_you_sure_event">¿Estás seguro de que deseas eliminar este evento? Esta acción no se puede deshacer.</string>
+    <!-- Diálogo -->
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="back">Volver</string>
+    <string name="dialog_trip_add">Nuevo viaje</string>
+    <string name="dialog_trip_edit">Editar viaje</string>
+    <string name="dialog_luggage">Nuevo elemento</string>
+    <string name="dialog_document">Nuevo documento</string>
+    <string name="dialog_event">Nuevo evento</string>
+    <string name="dialog_note">Nueva nota</string>
+    <!-- Inicio de Sesión -->
+    <string name="sign_in">Iniciar sesión</string>
+    <string name="sign_out">Cerrar sesión</string>
+    <string name="sign_out_ask">¿Estás seguro de que deseas cerrar sesión?</string>
+    <!-- Cadenas -->
+    <string name="welcome">Hola</string>
+    <string name="loading">Cargando …</string>
+    <string name="today_is">Hoy es</string>
+    <string name="add_trip">Agregar viaje</string>
+    <string name="title">Título</string>
+    <string name="profile_picture">Imagen de perfil</string>
+    <string name="info">Información</string>
+    <string name="destination">Destino</string>
+    <string name="element">Elemento</string>
+    <string name="add">Agregar</string>
+    <string name="category">Categoría</string>
+    <string name="select_category">Seleccionar categoría</string>
+    <string name="next_trips">Estos son tus próximos viajes</string>
+    <string name="past_trips">Viajes pasados</string>
+    <string name="trip_to">Viaje a %1$s</string>
+    <string name="select_image">Seleccionar imagen</string>
+    <string name="start_date">Fecha inicio</string>
+    <string name="end_date">Fecha fin</string>
+    <string name="fill_all_fields">Completa todos los campos</string>
+    <string name="note_content">Contenido de la nota</string>
+    <string name="no">No</string>
+    <string name="yes">Sí</string>
+    <!-- Sin datos -->
+    <string name="no_trips">No has agregado ningún viaje</string>
+    <string name="no_notes">No has agregado ninguna nota</string>
+    <string name="no_luggage">No has agregado ningún elemento</string>
+    <string name="no_documents">No has agregado ningún documento</string>
+    <!-- Categorías de Equipaje -->
+    <string name="luggage_tops">Parte superior</string>
+    <string name="luggage_bottoms">Parte inferior</string>
+    <string name="luggage_outerwear">Prendas de abrigo</string>
+    <string name="luggage_underwear">Ropa interior</string>
+    <string name="luggage_shoes">Zapatos</string>
+    <string name="luggage_accessories">Accesorios</string>
+    <string name="luggage_miscellaneous">Varios</string>
+    <!-- Categorías de Documentos -->
+    <string name="documents_documentation">Documentación</string>
+    <string name="documents_transportation">Transporte</string>
+    <string name="documents_accommodation">Alojamiento</string>
+    <string name="documents_entertainment">Entretenimiento</string>
+    <string name="documents_miscellaneous">Varios</string>
+    <string name="select_document">Seleccionar documento</string>
+    <string name="confirm_delete_document">Eliminar documento</string>
+    <string name="are_you_sure_document">¿Estás seguro de que deseas eliminar este documento? Esta acción no se puede deshacer.</string>
+    <string name="settings_data_format">Formato de datos</string>
+    <string name="settings_hour_format">Formato de horas</string>
+    <string name="settings_date_format">Formato de fecha</string>
+    <string name="about">Acerca de</string>
+    <string name="settings_language_change">Idioma seleccionado</string>
+    <string name="english">Inglés</string>
+    <string name="spanish">Español</string>
+    <string name="french">Francés</string>
+    <string name="german">Alemán</string>
+    <string name="portuguese">Portugués</string>
+    <string name="chinese">Chino</string>
+    <string name="japanese">Japones</string>
+    <string name="korean">Coreano</string>
+    <string name="next_events">Estos son tus próximos eventos</string>
+    <string name="edit">Editar</string>
+    <string name="no_events">No has agregado ningún evento</string>
+    <string name="choose_color">Elige un color</string>
+    <string name="enter_translation">Introduce el texto a traducir</string>
+    <string name="translate">Traducir</string>
+    <string name="to_translation">a</string>
+    <string name="error_date_between_trip_dates">Error. La fecha debe estar dentro de las fechas del viaje</string>
+    <string name="dialog_event_edit">Editar evento</string>
+    <string name="continue_with_google">Continuar con Google</string>
+    <string name="italian">Italiano</string>
+    <string name="info_app">Esta aplicación fue desarrollada como proyecto final por Irene Granados Bautista</string>
+    <string name="info_app_tittle">Información</string>
+    <string name="info_participate">Tu opinión es muy importante para nosotros. Participa en nuestra encuesta para ayudarnos a mejorar la app.</string>
+    <string name="info_survey">Encuesta</string>
+    <string name="dd_MM_yyyy">dd/mm/aaaa</string>
+    <string name="MM_dd_yyyy">mm/dd/aaaa</string>
+    <string name="yyyy_MM_dd">aaaa/mm/dd</string>
+    <string name="selected_location">Localización seleccionada</string>
+    <string name="location_permission_not_granted">Permiso de ubicación no concedido</string>
+    <string name="error_end_time_before_start_time">Hora de fin antes de la hora de inicio</string>
+    <string name="email_content">Me pongo en contacto con usted para ...</string>
+    <string name="menu">Menu</string>
+    <string name="update_file">Añadir PDF</string>
+    <string name="update_photo">Añadir imagen</string>
+    <string name="add_note">Añadir nota</string>
+    <string name="add_event">Añadir evento</string>
+    <string name="info_button">Info</string>
+    <string name="email_button">Contacto</string>
+    <string name="search_location">Buscar ubicación</string>
+    <string name="search_notes">Buscar nota</string>
+    <string name="start_date_time_button">Inicio</string>
+    <string name="end_date_time_button">Fin</string>
+    <string name="add_luggage">Añadir equipaje</string>
+    <string name="future_trips">Próximos viajes</string>
+    <string name="add_location">Añadir ubicación</string>
+
+</resources>
